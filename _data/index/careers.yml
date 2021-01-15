@@ -12,14 +12,16 @@
   job:
     detail: Student
     i18n: ub_job_student
-  icon: fa-plus-square
+  icon: fa-book
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: UB Campus Living Resident Fitness Center
+    i18n: ub_campusLiving_fullname
   desc:
-    detail: I worked at Company B ...
+    detail: |-
+    "Responsible for implementation for residential fitness centers serving 1,000+ residential students.
+    Train and indirectly supervise 40+ student employee Fitness Monitors"
     i18n: company_b_desc
   date:
     detail: Jun. 2015
