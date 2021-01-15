@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Scala, Python, C, Java, JavaScript, Mandarin, Data Mining, Network Components
-percentage: 5, 4, 4, 4, 4, 5, 4, 5
+aspects: Scala, Python, C, Java, JavaScript, Data Mining, Network Components, Mandarin
+percentage: 90, 90, 80, 80, 70, 85, 90, 100
