@@ -22,9 +22,9 @@
     detail: "Responsible for implementation for residential fitness centers serving 1,000+ residential students. <br> Train and indirectly supervise 40+ student employee Fitness Monitors"
     i18n: ub_campusLiving_desc
   date:
-    detail: Sep. 2018 - Present
+    detail: Sep. 2018 - May. 2020
     i18n: ub_campusLiving_date
   job:
     detail: Student Coordinator
     i18n: ub_campusLiving_job
-  icon: fa-mail-bulk
+  icon: fa-briefcase
