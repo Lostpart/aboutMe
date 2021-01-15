@@ -20,11 +20,11 @@
     i18n: ub_campusLiving_fullname
   desc:
     detail: "Responsible for implementation for residential fitness centers serving 1,000+ residential students. <br> Train and indirectly supervise 40+ student employee Fitness Monitors"
-    i18n: company_b_desc
+    i18n: ub_campusLiving_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Sep. 2018 - Present
+    i18n: ub_campusLiving_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: Student Coordinator
+    i18n: ub_campusLiving_job
+  icon: fa-mail-bulk
