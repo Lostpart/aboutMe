@@ -19,7 +19,7 @@
 
 - name:
     detail: University at Buffalo
-    i18n: ub_ra_name
+    i18n: ub_name
   desc:
     detail: "Research Assistant at the Universal at Buffalo. Working under Dr. Su"
     i18n: ub_ra_desc
@@ -63,3 +63,34 @@
     detail: Student Coordinator
     i18n: ub_campusLiving_job
   icon: fa-briefcase
+
+- name:
+    detail: Comprehensive Development Inc.
+    i18n: cdi_name
+  desc:
+    detail: "Help the 20+ students studying on New York state regent exam <br>
+             Assist students to solve problems in their homework"
+    i18n: cdi_tutor_desc
+  date:
+    detail: Sept. 2017 - Jun. 2018
+    i18n: cdi_tutor_date
+  job:
+    detail: Team Leader
+    i18n: cdi_tutor_job
+  icon: fa-pencil
+
+- name:
+    detail: Cooper Union Summer STEM Program
+    i18n: cu_summer_name
+  desc:
+    detail: "Worked with other students to design and build a machine out of used magnets, wood and paint <br>
+             Learned how to use basic manual and power tools, and create a Rube-Goldberg machine"
+    i18n: cu_summer_desc
+  date:
+    detail: Jul. 2017 - Aug. 2017
+    i18n: cu_summer_date
+  job:
+    detail: Team Leader
+    i18n: cu_summer_job
+  icon: fa-flask
+
