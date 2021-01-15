@@ -9,7 +9,7 @@
              GPA: 4.0/4.0"
     i18n: ub_job_student_desc
   date:
-    detail: Aug. 2018 - Present
+    detail: Aug 2018 - Present
     i18n: ub_job_student_date
   job:
     detail: Student
@@ -24,7 +24,7 @@
     detail: "Research Assistant at the Universal at Buffalo. Working under Dr. Su"
     i18n: ub_ra_desc
   date:
-    detail: Jun. 2020 - Present
+    detail: Jun 2020 - Present
     i18n: ub_ra_date
   job:
     detail: Research Assistant
@@ -41,7 +41,7 @@
              Planned Individual programs of study to develop student’s interest and abilities"
     i18n: hdedu_desc
   date:
-    detail: Nov. 2018 - Present
+    detail: Nov 2018 - Present
     i18n: hdedu_date
   job:
     detail: Tutor
@@ -57,7 +57,7 @@
              Train and indirectly supervise 40+ student employee Fitness Monitors"
     i18n: ub_campusLiving_desc
   date:
-    detail: Sep. 2018 - May. 2020
+    detail: Sep 2018 - May 2020
     i18n: ub_campusLiving_date
   job:
     detail: Student Coordinator
@@ -72,7 +72,7 @@
              Assist students to solve problems in their homework"
     i18n: cdi_tutor_desc
   date:
-    detail: Sept. 2017 - Jun. 2018
+    detail: Sep 2017 - Jun 2018
     i18n: cdi_tutor_date
   job:
     detail: Team Leader
@@ -87,7 +87,7 @@
              Learned how to use basic manual and power tools, and create a Rube-Goldberg machine"
     i18n: cu_summer_desc
   date:
-    detail: Jul. 2017 - Aug. 2017
+    detail: Jul 2017 - Aug 2017
     i18n: cu_summer_date
   job:
     detail: Team Leader
