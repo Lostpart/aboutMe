@@ -19,9 +19,7 @@
     detail: UB Campus Living Resident Fitness Center
     i18n: ub_campusLiving_fullname
   desc:
-    detail: |-
-    "Responsible for implementation for residential fitness centers serving 1,000+ residential students.
-    Train and indirectly supervise 40+ student employee Fitness Monitors"
+    detail: "Responsible for implementation for residential fitness centers serving 1,000+ residential students. <br> Train and indirectly supervise 40+ student employee Fitness Monitors"
     i18n: company_b_desc
   date:
     detail: Jun. 2015
