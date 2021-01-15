@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Universal at Buffalo
+    detail: University at Buffalo
     i18n: ub_name
   desc:
     detail: "Expected Graduation: May 2022 <br>
@@ -17,7 +17,7 @@
   present: true
 
 - name:
-    detail: Universal at Buffalo
+    detail: University at Buffalo
     i18n: ub_ra_name
   desc:
     detail: "Research Assistant at the Universal at Buffalo. Working under Dr. Su"
