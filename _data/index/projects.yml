@@ -1,22 +1,24 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: NFTA-process-data
+  i18n: NFTA-process-data_name
+  gh_user: wdzhong
+  repo: NFTA-process-data
+  img: /static/assets/img/landing/NFTA_logo.png
+  desc: Process GPS data downloaded from NFTA sftp and use these data to predict current road conditions.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+#- name: Python
+#  i18n: cpython
+#  gh_user: python
+#  repo: cpython
+#  img: /static/assets/img/landing/python.png
+#  desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Chinese Vocaloid Weekly Leaderboard
+  i18n: vc_ranking_name
+  url: https://space.bilibili.com/156489
+  img: /static/assets/img/landing/vc_ranking_logo.png
+  desc: "-Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays <br>
+         -Collect and record staff information and status of over 100 songs every week <br>
+         -Calculate rankings based on data and make videos to introduce songs"
