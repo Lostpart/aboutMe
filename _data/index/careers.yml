@@ -4,7 +4,8 @@
     detail: University at Buffalo
     i18n: ub_name
   desc:
-    detail: "Expected Graduation: May 2022 <br>
+    detail: "B.S. Computer Science <br>
+             Expected Graduation: May 2022 <br>
              GPA: 4.0/4.0"
     i18n: ub_job_student_desc
   date:
