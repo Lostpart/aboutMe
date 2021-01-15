@@ -1,15 +1,14 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Universal at Buffalo - The State University of New York
+    detail: Universal at Buffalo
     i18n: ub_fullname
   desc:
-    detail: "Expected Graduation: May 2022
-    GPA: 4.0/4.0"
-    i18n: company_a_desc
+    detail: "Expected Graduation: May 2022 <br> GPA: 4.0/4.0"
+    i18n: ub_job_student_desc
   date:
     detail: Aug. 2018 - Present
-    i18n: company_a_date
+    i18n: ub_job_student_date
   job:
     detail: Student
     i18n: ub_job_student
