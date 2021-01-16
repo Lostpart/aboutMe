@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-java-bold
     - name: icon-c
-  desc: Introduce myself will be here. This webpage is still under construction.   # Describe yourself.
+  desc: "Programmer skilled in Scala, Java, Python, C, JavaScript, Adobe Photoshop, and Leadership. Student at University at Buffalo studying Bachelor's degree focused in Computer Science."   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
