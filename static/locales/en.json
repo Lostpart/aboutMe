@@ -20,12 +20,12 @@
   },
   "projects":{
     "NFTA-process-data_desc": "Process GPS data downloaded from the Niagara Frontier Transportation Authority (NFTA) sftp and use these data to predict road conditions.",
-    "vc_ranking_desc": "-Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays <br> -Collect and record staff information and status of over 100 songs every week <br> -Calculate rankings based on data and make videos to introduce songs"
+    "vc_ranking_desc": "Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays.Collect and record staff information and status of over 100 songs every week. Calculate rankings based on data and make videos to introduce songs"
   },
   "career":{
     "my_career": "My Career",
     "ub_name": "University at Buffalo",
-    "ub_student_desc": "B.S. Computer Science <br>Expected Graduation: May 2022 <br>GPA: 4.0/4.0",
+    "ub_student_desc": "B.S. Computer Science. Expected Graduation: May 2022. GPA: 4.0/4.0",
     "ub_student_date": "Aug 2018 - Present",
     "ub_student_job": "Student",
     "ub_ra_desc": "Research Assistant at the Universal at Buffalo. Working under Dr. Su",
@@ -36,15 +36,15 @@
     "hdedu_date": "Nov 2018 - Present",
     "hdedu_job": "Tutor",
     "ub_campusLiving_name": "UB Campus Living Resident Fitness Center",
-    "ub_campusLiving_desc": "Responsible for implementation for residential fitness centers serving 1,000+ residential students. <br>Train and indirectly supervise 40+ student employee Fitness Monitors",
+    "ub_campusLiving_desc": "Responsible for implementation for residential fitness centers serving 1,000+ residential students. Train and indirectly supervise 40+ student employee Fitness Monitors",
     "ub_campusLiving_date": "Sep 2018 - May 2020",
     "ub_campusLiving_job": "Student Coordinator",
     "cdi_name": "Comprehensive Youth Development",
-    "cdi_tutor_desc": "Help the 20+ students studying on New York state regent exam <br>Assist students to solve problems in their homework",
+    "cdi_tutor_desc": "Help the 20+ students studying on New York state regent exam. Assist students to solve problems in their homework",
     "cdi_tutor_date": "Sep 2017 - Jun 2018",
     "cdi_tutor_job": "Tutor",
     "cu_summer_name": "Cooper Union Summer STEM Program",
-    "cu_summer_desc": "Worked with other students to design and build a machine out of used magnets, wood and paint <br>Learned how to use basic manual and power tools, and create a Rube-Goldberg machine",
+    "cu_summer_desc": "Worked with other students to design and build a machine out of used magnets, wood and paint. Learned how to use basic manual and power tools, and create a Rube-Goldberg machine",
     "cu_summer_date": "Jul 2017 - Aug 2017",
     "cu_summer_job": "Team Leader"
   },
