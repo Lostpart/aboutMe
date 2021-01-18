@@ -7,13 +7,13 @@
     detail: "B.S. Computer Science <br>
              Expected Graduation: May 2022 <br>
              GPA: 4.0/4.0"
-    i18n: ub_job_student_desc
+    i18n: ub_student_desc
   date:
     detail: Aug 2018 - Present
-    i18n: ub_job_student_date
+    i18n: ub_student_date
   job:
     detail: Student
-    i18n: ub_job_student
+    i18n: ub_student_job
   icon: fa-book
   present: true
 
@@ -75,7 +75,7 @@
     detail: Sep 2017 - Jun 2018
     i18n: cdi_tutor_date
   job:
-    detail: Team Leader
+    detail: Tutor
     i18n: cdi_tutor_job
   icon: fa-pencil
 
