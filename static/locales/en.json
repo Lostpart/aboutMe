@@ -46,7 +46,11 @@
     "cu_summer_name": "Cooper Union Summer STEM Program",
     "cu_summer_desc": "Worked with other students to design and build a machine out of used magnets, wood and paint. Learned how to use basic manual and power tools, and create a Rube-Goldberg machine",
     "cu_summer_date": "Jul 2017 - Aug 2017",
-    "cu_summer_job": "Team Leader"
+    "cu_summer_job": "Team Leader",
+    "aws_name": "Amazon Web Services (AWS)",
+    "aws_intern1_desc": "Collaboratively designed, implemented, and tested a Java microservice from scratch for a greenfield project. Added several new frontend components using React and Redux. Utilized DynamoDB, Fargate, ECS, API Gateway, Cloudwatch and other AWS services",
+    "aws_intern1_date": "May 2021 - Aug 2021",
+    "aws_intern_job": "Software Development Engineer Intern"
   },
   "blog":{
     "my_blog": "My Blog"

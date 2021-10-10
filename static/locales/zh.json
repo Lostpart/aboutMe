@@ -39,14 +39,18 @@
     "ub_campusLiving_desc": "负责实施为超过1000名住宿生提供居民健身中心。培训和间接监督超过40名健身房内的学生员工。",
     "ub_campusLiving_date": "2018年9月 - 2020年5月",
     "ub_campusLiving_job": "学生协调员",
-    "cdi_name": "综合青年发展组织",
+    "cdi_name": "青年综合发展（非盈利机构）",
     "cdi_tutor_desc": "帮助超过20名学生参加纽约州高中会考。辅导学生解决家庭作业中的问题。",
     "cdi_tutor_date": "2017年9月 - 2018年6月",
     "cdi_tutor_job": "辅导老师",
     "cu_summer_name": "库伯联盟学院夏季STEM项目",
     "cu_summer_desc": "与其他学生一起使用二手材料设计和制造机器。学习了如何使用基本的手动和电动工具，以及如何创建Rube-Goldberg机器。",
     "cu_summer_date": "2017年7月 - 2017年8月",
-    "cu_summer_job": "队长"
+    "cu_summer_job": "队长",
+    "aws_name": "亚马逊云科技 (AWS)",
+    "aws_intern1_desc": "在一个绿地项目中协同设计、实施和测试了一个 Java 微服务。使用 React 和 Redux 添加了数个新的前端组件。使用了 DynamoDB、Fargate、ECS、API Gateway、Cloudwatch 和其他 AWS 服务。",
+    "aws_intern1_date": "2021年5月 - 2021年8月",
+    "aws_intern_job": "实习软件开发工程师"
   },
   "blog":{
     "my_blog": "我的博客"

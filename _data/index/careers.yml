@@ -33,6 +33,22 @@
   present: true
 
 - name:
+    detail: Amazon Web Services (AWS)
+    i18n: aws_name
+  desc:
+    detail: "- Collaboratively designed, implemented, and tested a Java microservice from scratch for a greenfield project<br>
+             - Added several new frontend components using React and Redux<br>
+             - Utilized DynamoDB, Fargate, ECS, API Gateway, Cloudwatch and other AWS services"
+    i18n: aws_intern1_desc
+  date:
+    detail: May 2021 - Aug 2021
+    i18n: aws_intern1_date
+  job:
+    detail: Software Development Engineer Intern
+    i18n: aws_intern_job
+  icon: fa-aws
+
+- name:
     detail: HD Education
     i18n: hdedu_name
   desc:
@@ -41,13 +57,12 @@
              Planned Individual programs of study to develop student’s interest and abilities"
     i18n: hdedu_desc
   date:
-    detail: Nov 2018 - Present
+    detail: Nov 2018 - Aug 2020
     i18n: hdedu_date
   job:
     detail: Tutor
     i18n: hdedu_job
   icon: fa-pencil
-  present: true
 
 - name:
     detail: UB Campus Living Resident Fitness Center

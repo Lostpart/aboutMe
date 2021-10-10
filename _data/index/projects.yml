@@ -8,13 +8,6 @@
   img: /static/assets/img/landing/NFTA_logo.png
   desc: Process GPS data downloaded from the Niagara Frontier Transportation Authority (NFTA) sftp and use these data to predict current road conditions.
 
-#- name: Python
-#  i18n: cpython
-#  gh_user: python
-#  repo: cpython
-#  img: /static/assets/img/landing/python.png
-#  desc: This project is other's project. I use another request to get repo's information.
-
 - name: Chinese Vocaloid Weekly Leaderboard
   i18n: vc_ranking_desc
   url: https://space.bilibili.com/156489
@@ -22,3 +15,10 @@
   desc: "-Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays <br>
          -Collect and record staff information and status of over 100 songs every week <br>
          -Calculate rankings based on data and make videos to introduce songs"
+
+- name: UB-Marketplace
+  i18n: UB-Marketplace_desc
+  gh_user: Lostpart
+  repo: UB-Marketplace
+  img: /static/assets/img/landing/UB-Marketplace_logo.png
+  desc: ""
