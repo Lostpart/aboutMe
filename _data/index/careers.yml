@@ -46,7 +46,7 @@
   job:
     detail: Software Development Engineer Intern
     i18n: aws_intern_job
-  icon: fa-aws
+  icon: fa-amazon
 
 - name:
     detail: HD Education
