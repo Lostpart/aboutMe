@@ -1,21 +1,37 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University at Buffalo
-    i18n: ub_name
+    i18n: ucsd_name
   desc:
-    detail: "B.S. Computer Science <br>
-             Expected Graduation: May 2022 <br>
-             GPA: 4.0/4.0"
-    i18n: ub_student_desc
+    i18n: ucsd_student_desc
   date:
-    detail: Aug 2018 - Present
     i18n: ub_student_date
   job:
-    detail: Student
-    i18n: ub_student_job
+    i18n: ucsd_student_job
   icon: fa-book
   present: true
+
+- name:
+    i18n: aws_name
+  desc:
+    i18n: aws_intern2_desc
+  date:
+    i18n: aws_intern2_date
+  job:
+    i18n: aws_intern_job
+  icon: fa-amazon
+  present: true
+
+- name:
+    i18n: ub_name
+  desc:
+    i18n: ub_student_desc
+  date:
+    i18n: ub_student_date
+  job:
+    i18n: ub_student_job
+  icon: fa-book
+  present: false
 
 - name:
     detail: University at Buffalo
@@ -24,13 +40,12 @@
     detail: "Research Assistant at the Universal at Buffalo. Working under Dr. Su"
     i18n: ub_ra_desc
   date:
-    detail: Jun 2020 - Present
+    detail: Jun 2020 - May 2022
     i18n: ub_ra_date
   job:
     detail: Research Assistant
     i18n: ub_ra_job
   icon: fa-flask
-  present: true
 
 - name:
     detail: Amazon Web Services (AWS)

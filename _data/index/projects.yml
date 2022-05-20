@@ -12,13 +12,27 @@
   i18n: vc_ranking_desc
   url: https://space.bilibili.com/156489
   img: /static/assets/img/landing/vc_ranking_logo.png
-  desc: "-Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays <br>
-         -Collect and record staff information and status of over 100 songs every week <br>
-         -Calculate rankings based on data and make videos to introduce songs"
+  desc: "Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays <br>
+         Collect and record staff information and status of over 100 songs every week <br>
+         Calculate rankings based on data and make videos to introduce songs"
 
 - name: UB-Marketplace
   i18n: UB-Marketplace_desc
   gh_user: Lostpart
   repo: UB-Marketplace
   img: /static/assets/img/landing/UB-Marketplace_logo.png
-  desc: ""
+  desc: "A Marketplace website for UB students"
+
+- name: Liquor Looker
+  i18n: Liquor_Looker_desc
+  gh_user: xlab-classes
+  repo: cse442-spring2022-team-liquorlooker
+  img: /static/assets/img/landing/Liquor_Looker.png
+  desc: "Liquor price comparison services"
+
+- name: Pentaneers Survey
+  i18n: Pentaneers_Survey_desc
+  gh_user: xlab-classes
+  repo: cse442-spring2022-team-team-pentaneers
+  img: /static/assets/img/landing/Pentaneers_Survey.png
+  desc: "Online survey service"

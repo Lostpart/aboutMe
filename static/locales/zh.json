@@ -20,20 +20,27 @@
   },
   "projects":{
     "NFTA-process-data_desc": "处理从尼亚加拉边境交通管理局（NFTA）的sftp下载的GPS数据，并使用这些数据预测道路状况。",
-    "vc_ranking_desc": "-运营亚文化社区中最具权威的排行榜，累计播放量超过2700万次。每周收集和记录超过100首歌曲的信息。根据数据计算排名并制作视频以介绍歌曲"
+    "vc_ranking_desc": "-运营亚文化社区中最具权威的排行榜，累计播放量超过2700万次。每周收集和记录超过100首歌曲的信息。根据数据计算排名并制作视频以介绍歌曲",
+    "UB-Marketplace_desc": "为布法罗大学学生提供的二手信息发布平台",
+    "Liquor_Looker_desc": "酒类商品在线比价平台",
+    "Pentaneers_Survey_desc": "在线问卷网站"
   },
   "career":{
+    "ucsd_name": "加州大学圣地亚哥分校（University of California San Diego）",
+    "ucsd_desc": "硕士 | 计算机科学",
+    "ucsd_student_date": "2022年9月 - 至今",
+    "ucsd_student_job": "学生",
     "my_career": "职业生涯",
     "ub_name": "布法罗大学 (University at Buffalo)",
-    "ub_student_desc": "专业：计算机科学 | 预计毕业时间: 2022年5月 | 绩点: 4.0/4.0",
-    "ub_student_date": "2018年8月 - 至今",
+    "ub_student_desc": "学士 | 专业：计算机科学 | 绩点: 4.0/4.0",
+    "ub_student_date": "2018年8月 - 2022年5月",
     "ub_student_job": "学生",
     "ub_ra_desc": "布法罗大学的研究助理在宿教授的指导下进行研究。",
-    "ub_ra_date": "2020年7月 - 至今",
+    "ub_ra_date": "2020年7月 - 2022年5月",
     "ub_ra_job": "研究助理",
     "hdedu_name": "海道教育",
     "hdedu_desc": "辅导超过10名本科学生的编程，数据结构和软件设计课程。辅导超过30名学生的Scala和C语言的编程。协助学生设计个人学习计划，以培养学生的兴趣和能力。",
-    "hdedu_date": "2018年11月 - 至今",
+    "hdedu_date": "2018年11月 - 2021年5月",
     "hdedu_job": "辅导老师",
     "ub_campusLiving_name": "布法罗大学校园生活居民健身中心",
     "ub_campusLiving_desc": "负责实施为超过1000名住宿生提供居民健身中心。培训和间接监督超过40名健身房内的学生员工。",
@@ -50,7 +57,9 @@
     "aws_name": "亚马逊云科技 (AWS)",
     "aws_intern1_desc": "在一个绿地项目中协同设计、实施和测试了一个 Java 微服务。使用 React 和 Redux 添加了数个新的前端组件。使用了 DynamoDB、Fargate、ECS、API Gateway、Cloudwatch 和其他 AWS 服务。",
     "aws_intern1_date": "2021年5月 - 2021年8月",
-    "aws_intern_job": "实习软件开发工程师"
+    "aws_intern_job": "实习软件开发工程师",
+    "aws_intern2_desc": "在AWS实习",
+    "aws_intern2_date": "2022年5月 - 2022年8月"
   },
   "blog":{
     "my_blog": "我的博客"

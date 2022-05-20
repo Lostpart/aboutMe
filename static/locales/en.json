@@ -20,20 +20,27 @@
   },
   "projects":{
     "NFTA-process-data_desc": "Process GPS data downloaded from the Niagara Frontier Transportation Authority (NFTA) sftp and use these data to predict road conditions.",
-    "vc_ranking_desc": "Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays.Collect and record staff information and status of over 100 songs every week. Calculate rankings based on data and make videos to introduce songs"
+    "vc_ranking_desc": "Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays.Collect and record staff information and status of over 100 songs every week. Calculate rankings based on data and make videos to introduce songs",
+    "UB-Marketplace_desc": "A Marketplace website for UB students",
+    "Liquor_Looker_desc": "Liquor price comparison website",
+    "Pentaneers_Survey_desc": "Online survey website"
   },
   "career":{
+    "ucsd_name": "University of California San Diego",
+    "ucsd_desc": "M.S. Computer Science | Expected Graduation: June 2024",
+    "ucsd_student_date": "Sep 2022 - Present",
+    "ucsd_student_job": "Student",
     "my_career": "My Career",
     "ub_name": "University at Buffalo",
-    "ub_student_desc": "B.S. Computer Science | Expected Graduation: May 2022 | GPA: 4.0/4.0",
-    "ub_student_date": "Aug 2018 - Present",
+    "ub_student_desc": "B.S. Computer Science | GPA: 4.0/4.0",
+    "ub_student_date": "Aug 2018 - May 2022",
     "ub_student_job": "Student",
     "ub_ra_desc": "Research Assistant at the Universal at Buffalo. Working under Dr. Su",
-    "ub_ra_date": "Jun 2020 - Present",
+    "ub_ra_date": "Jun 2020 - May 2022",
     "ub_ra_job": "Research Assistant",
     "hdedu_name": "HD Education",
     "hdedu_desc": "Tutored 10+ undergraduate students on course of programming, data structures, and software design<br>Tutored 30+ students in Scala and C programming<br>Planned Individual programs of study to develop student’s interest and abilities",
-    "hdedu_date": "Nov 2018 - Present",
+    "hdedu_date": "Nov 2018 - May 2021",
     "hdedu_job": "Tutor",
     "ub_campusLiving_name": "UB Campus Living Resident Fitness Center",
     "ub_campusLiving_desc": "Responsible for implementation for residential fitness centers serving 1,000+ residential students. Train and indirectly supervise 40+ student employee Fitness Monitors",
@@ -50,7 +57,9 @@
     "aws_name": "Amazon Web Services (AWS)",
     "aws_intern1_desc": "Collaboratively designed, implemented, and tested a Java microservice from scratch for a greenfield project. Added several new frontend components using React and Redux. Utilized DynamoDB, Fargate, ECS, API Gateway, Cloudwatch and other AWS services",
     "aws_intern1_date": "May 2021 - Aug 2021",
-    "aws_intern_job": "Software Development Engineer Intern"
+    "aws_intern_job": "Software Development Engineer Intern",
+    "aws_intern2_desc": "Intern at AWS",
+    "aws_intern2_date": "May 2022 - Aug 2022"
   },
   "blog":{
     "my_blog": "My Blog"
