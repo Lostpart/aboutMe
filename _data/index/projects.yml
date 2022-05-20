@@ -1,16 +1,16 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Chinese Vocaloid Weekly Leaderboard
+  i18n: vc_ranking_desc
+  url: https://space.bilibili.com/156489
+  img: /static/assets/img/landing/vc_ranking_logo.png
+
 - name: NFTA-process-data
   i18n: NFTA-process-data_desc
   gh_user: wdzhong
   repo: NFTA-process-data
   img: /static/assets/img/landing/NFTA_logo.png
-
-- name: Chinese Vocaloid Weekly Leaderboard
-  i18n: vc_ranking_desc
-  url: https://space.bilibili.com/156489
-  img: /static/assets/img/landing/vc_ranking_logo.png
 
 - name: UB-Marketplace
   i18n: UB-Marketplace_desc
