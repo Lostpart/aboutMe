@@ -20,7 +20,7 @@
   },
   "projects":{
     "NFTA-process-data_desc": "Process GPS data downloaded from the Niagara Frontier Transportation Authority (NFTA) sftp and use these data to predict road conditions.",
-    "vc_ranking_desc": "Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays.Collect and record staff information and status of over 100 songs every week. Calculate rankings based on data and make videos to introduce songs",
+    "vc_ranking_desc": "Maintain the most authoritative leaderboard in a sub-cultural community with 27+ million total plays. Collect and record staff information and status of over 100 songs every week. Calculate rankings based on data and make videos to introduce songs",
     "UB-Marketplace_desc": "A Marketplace website for UB students",
     "Liquor_Looker_desc": "Liquor price comparison website",
     "Pentaneers_Survey_desc": "Online survey website"
@@ -35,7 +35,7 @@
     "ub_student_desc": "B.S. Computer Science | GPA: 4.0/4.0",
     "ub_student_date": "Aug 2018 - May 2022",
     "ub_student_job": "Student",
-    "ub_ra_desc": "Research Assistant at the Universal at Buffalo. Working under Dr. Su",
+    "ub_ra_desc": "Research Assistant at the University at Buffalo. Working under Dr. Su",
     "ub_ra_date": "Jun 2020 - May 2022",
     "ub_ra_job": "Research Assistant",
     "hdedu_name": "HD Education",
